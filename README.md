@@ -1,9 +1,8 @@
+* En el archivo README1.md Se encuentra toda la documentación del exámen.
 
-| N.lista  | Alumno |
+| NOMBRE  | GITHUB |
 | ------------- | ------------- |
-| Numero 1  | Miguel  |
-| Numero 2  | Hugo  |
-| Numero 3  | Toni  |
+| Máximo Fernández Riera  |  [Enlace](https://github.com/maximofernandezriera)  |
 
 Echamos un vistazo a los logs (git log) y veremos que hay dos.
 
