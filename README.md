@@ -1,4 +1,4 @@
-# En el archivo README1.md Se encuentra toda la documentación del exámen.
+# En el archivo README2.md Se encuentra toda la documentación del exámen.
 
 | NOMBRE  | GITHUB |
 | ------------- | ------------- |
