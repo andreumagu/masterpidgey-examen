@@ -1,3 +1,10 @@
+
+| N.lista  | Alumno |
+| ------------- | ------------- |
+| Numero 1  | Miguel  |
+| Numero 2  | Hugo  |
+| Numero 3  | Toni  |
+
 Echamos un vistazo a los logs (git log) y veremos que hay dos.
 
 Realizamos los pasos anteriores dos veces más y comprobamos los logs.
@@ -17,3 +24,4 @@ Debemos ejecutar lo siguiente: git config --global alias.ll 'log --all
 --decorate --graph --oneline'
 En este caso hemos nombrado el comando como "ll" y para llamarlo debemos 
 ejecutar lo siguiente: git ll
+
