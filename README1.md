@@ -1,5 +1,3 @@
-# En el archivo README2.md Se encuentra toda la documentación del exámen.
-
 | NOMBRE  | GITHUB |
 | ------------- | ------------- |
 | Máximo Fernández Riera  |  [Enlace](https://github.com/maximofernandezriera)  |
