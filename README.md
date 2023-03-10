@@ -92,4 +92,4 @@ comando "mkdir".
 - Finalmente Máximo ha realizado el merge.
 ![25](/images/25.png)
 
-#### Así es como hemos aplicado los conocimientos adquiridos durante el trimestre referentes al control de versiones.
+### Así es como hemos aplicado los conocimientos adquiridos durante el trimestre referentes al control de versiones.
