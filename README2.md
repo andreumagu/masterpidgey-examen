@@ -89,3 +89,5 @@ comando "mkdir".
 ![23](/images/23.png)
 - Como podemos ver la rama no entra en conflicto y solo debemos esperar a que se acepte el pull request.
 ![24](/images/24.png)
+- Finalmente Máximo ha realizado el merge.
+![25](/images/25.png)
